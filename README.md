@@ -1,4 +1,4 @@
-# Project School transport system
+# Project University transport system
 
 Members 
 Asad Khan
