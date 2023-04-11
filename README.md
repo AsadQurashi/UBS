@@ -6,6 +6,8 @@ Furqan Ahmad
 Ammar Tariq
 
 Group Leader  Furqan Ahmad
+
+
 Introduction:
 We propose to implement a school bus tracking system to enhance the safety and efficiency of the transportation services provided by our school. The proposed project aims to leverage modern technology to track and monitor the school buses in real-time, providing parents, school administrators, and bus drivers with accurate information about the location and status of the buses at all times. This will ensure that the school buses are operated safely and on schedule, and parents can have peace of mind knowing the whereabouts of their children during their commute to and from school.
 
