@@ -1,11 +1,11 @@
 # Project University Bus System
 
-Members 
-Asad Khan
-Furqan Ahmad
-Ammar Tariq
-
 Group Leader  Furqan Ahmad
+
+Group Member
+Asad Khan ,
+Furqan Ahmad , 
+Ammar Tariq.
 
 
 Introduction:
